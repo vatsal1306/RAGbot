@@ -9,6 +9,7 @@ bobcat-ai_accessKeys.csv
 bobcat-ai_credentials.csv
 .env
 .idea
+test.ipynb
 
 
 # C extensions
