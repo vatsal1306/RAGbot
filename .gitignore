@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# local files
+OM
+bobcat-ai_accessKeys.csv
+bobcat-ai_credentials.csv
+.env
+.idea
+
+
 # C extensions
 *.so
 
